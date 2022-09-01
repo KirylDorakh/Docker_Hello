@@ -6,3 +6,8 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# Local
+venv
+__pycache__/
+db.sqlite3
+.DS_Store
